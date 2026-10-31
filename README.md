@@ -67,7 +67,7 @@ Kanban-Dashboard/
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/nishnatv687/Kanban-dashboard
 ```
 
 **2. Navigate to the project directory**
@@ -107,8 +107,6 @@ The main objective of this project was to strengthen practical React development
 ## 👨‍💻 Author
 
 **Nishant Verma**
-
-- GitHub: [nishantv687](https://github.com/nishantv687)
 
 ---
 
