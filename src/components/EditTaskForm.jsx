@@ -98,7 +98,7 @@ const EditTaskForm = ({closeButton,selectedTask,setselectedTask,saveChanges}) =>
             >
               <option>Todo</option>
               <option>In Progress</option>
-              <option>Done</option>
+              <option>Completed</option>
             </select>
           </div>
         </div>
